@@ -3,6 +3,7 @@
 
 ## this is my code
 ## second line
+# my experience with github
 
 makeCacheMatrix <- function(x = matrix()) {
   
